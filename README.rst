@@ -1,3 +1,7 @@
+Next Meeting
+================
+December 1st, 2010 from 6-8pm @ http://www.officesquaredvt.com/
+
 Previous Meetings
 =================
 

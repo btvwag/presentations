@@ -1,5 +1,10 @@
-Presentation Topics
-===================
+Previous Meetings
+=================
+
+* October 27, 2010 - Presentation on Rails + Hadoop by @bseanvt
+
+Future Presentation Topics
+==========================
 
 * Data transformations
 * New tools like Hadoop

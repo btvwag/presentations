@@ -1,6 +1,7 @@
 Previous Meetings
 =================
 
+* September 29, 2010 - Presentations on Creating Ruby Gems by @beerlington, Vim For Rails (http://github.com/alanpeabody/Vim-for-Rails-Developers) by @alanpeabody
 * October 27, 2010 - Presentation on Rails + Hadoop by @bseanvt
 
 Future Presentation Topics
